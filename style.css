@@ -11,6 +11,11 @@ h1{
 }
 .flexible-container{
     display: flex;
+
+}
+#border-left{
+    border-left: 5px solid pink;
+    
 }
 .half-width{
     width: 50%;
@@ -50,6 +55,7 @@ h1{
 /* third-banner */
 
 .third-banner{
+    
     display: flex;
     font-size: 20px;
     padding-left: 0%;
